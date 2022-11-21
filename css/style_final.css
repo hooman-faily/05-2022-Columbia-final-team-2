@@ -80,8 +80,74 @@ h4{
     margin-left: 65px;
 
 }
+.card-img-top{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+.card-title{
+    font-family: 'Fredoka', sans-serif;
+    color: #000000;
+    display: block;
+    margin-left: 0px;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif; 
+    font-size: x-small; 
+    display: inline-block;
+}
+.card{
+    padding-top: 50px;
+    background: linear-gradient(337.21deg, #EAEDE0 35.27%, rgba(239, 204, 109, 0) 99.02%);
+
+background: #FAF3DE;
+margin: 10px;
+}
+.btn{
+    border: 2px solid #111111;
+    border-radius: 8px;
+    background-color: transparent;
+    color: #000000;
+}
+.btm-primary{
+   
+}
+.carousel{
+    padding: 75px;
+
+}
+h2{
+    color: #FFFFFF;
+    padding-bottom: 45px;
+    margin-top: 75px;
+}
+h3{
+    color: #FFFFFF;
+    padding: 10px;
+
+}
+.community{
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+
+.join{
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    background-color: #414B5F;
+    display: block;
+    margin: auto;  
+}
+.browse{
+    border: 2px solid #111111;
+    border-radius: 8px;
+    background-color: transparent;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
 /* 
-    
     font-family: 'Roboto', sans-serif; 
      <div class="container">
     <div class="row g-3">
